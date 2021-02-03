@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51188324944",
+    "project_id": "socio-cac69",
+    "storage_bucket": "socio-cac69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51188324944:android:b6dcc2e4c584b539798f55",
+        "android_client_info": {
+          "package_name": "com.demo.socio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51188324944-j5ejdkpp64kefh6c63o3bti555bpmb0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLXjrBPnJXUk9HASQNbP12dPnAGMi6S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51188324944-j5ejdkpp64kefh6c63o3bti555bpmb0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
